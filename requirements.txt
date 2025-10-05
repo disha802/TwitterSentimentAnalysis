@@ -11,3 +11,6 @@ regex==2024.7.24
 
 # Optional: to suppress warnings
 warnings==0.1.0
+
+#streamlit for the UI
+streamlit==1.39.0
