@@ -1,0 +1,13 @@
+# Core scientific libraries
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Machine learning
+scikit-learn==1.5.1
+
+# For text processing & regex operations
+regex==2024.7.24
+
+# Optional: to suppress warnings
+warnings==0.1.0
